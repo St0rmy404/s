@@ -13,14 +13,14 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #2780e6;
-  --hover-color: #1e63b3;
+  --main-color: #808080;
+  --hover-color: #808080;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
   --background-image: url('https://static.wikia.nocookie.net/backrooms/images/f/f2/Level4RewriteBackground.gif');
-  --background-shading: 100%;
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
