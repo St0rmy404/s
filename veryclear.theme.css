@@ -19,7 +19,7 @@
   --danger-color: #982929;
   --url-color: var(--main-color);
   --undefined: 0;
-  --background-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --background-image: url('https://static.wikia.nocookie.net/backrooms/images/f/f2/Level4RewriteBackground.gif');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -53,7 +53,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
